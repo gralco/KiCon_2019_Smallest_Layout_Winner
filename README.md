@@ -1,7 +1,7 @@
 # KiCon_2019_Smallest_Layout_Winner
 Board that won "smallest layout" contest in KiCon 2019
 
-The board uses 1 micron traces and 1 micron vias in-pads, 32 layers, some overlap was needed (manufacturability not a requirement).
+The board uses 1 micron traces and 1 micron vias in-pads, 32 layers, some overlap was needed (manufacturability not a requirement). The layout was submitted within the last ~2min, passes DRC and has no unrouted nets.
 
 
 ## Contest rules:
